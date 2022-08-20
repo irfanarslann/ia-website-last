@@ -1,0 +1,84 @@
+{
+    "basic_info": {
+      "name": "Irfan Arslan",
+      "titles": [ "Sen. Full Stack Developer", "Database Admin", "Jr. Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/irfanarslann",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedId",
+          "url": "https://www.linkedin.com/in/irfanarslaann/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/irfanarslaaan",
+          "class": "fab fa-instagram"
+        }
+       
+      ],
+      "image": "me.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain colored",
+          "level": "90"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original-wordmark colored",
+          "level": "95"
+        },
+        {
+          "name": "Nodejs",
+          "class": "devicon-nodejs-plain-wordmark colored",
+          "level": "95"
+        },
+        {
+          "name": "ExpressJS",
+          "class": "devicon-express-original-wordmark",
+          "level": "100"
+        },
+        {
+          "name": "Mongo DB",
+          "class": "devicon-mongodb-plain-wordmark colored",
+          "level": "80"
+        },
+        {
+          "name": "Dotnet Core",
+          "class": "devicon-dotnetcore-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "MS SQL",
+          "class": "devicon-microsoftsqlserver-plain-wordmark colored",
+          "level": "75"
+        },
+        {
+          "name": "Vue js",
+          "class": "devicon-vuejs-plain-wordmark colored",
+          "level": "75"
+        },
+        {
+          "name": "Socket Io",
+          "class": "devicon-socketio-original-wordmark",
+          "level": "65"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain-wordmark colored",
+          "level": "65"
+        },
+        {
+          "name": "Php",
+          "class": "devicon-php-plain colored",
+          "level": "55"
+        }
+      ]
+    }
+  }

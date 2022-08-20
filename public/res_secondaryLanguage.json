@@ -1,0 +1,134 @@
+{
+  "basic_info": {
+    "description_header": "Herkese Merhaba",
+    "description": "👋 Ben Irfan. Fullstack Developer olarak proje gelistiriyorum ve Web site tasarimi yapiyorum. Projelerimi genellikle MERN Stack olarak gelistiriyorum. Ayni zamanda Dotnet Framework uzerinde de calismalarim var. SQL ve NoSQL veritabanlariyla calisiyorum.",
+    "section_name": {
+      "about": "Hakkimda",
+      "projects": "Projeler",
+      "skills": "Yetenekler",
+      "experience": "Deneyim"
+    }
+  },
+  "projects": [
+    {
+      "title": "VulnIQ",
+      "startDate": "2020",
+      "description": "VulnIQ, düşük  maliyeti ve yüksek yatırım getirisi ile eksiksiz bir güvenlik açığı ve yönetimi projesidir. VulnIQ projesinde full stack developer olarak çalıştım.",
+      "images": [
+        "images/portfolio/vulniq/vulniq.png",
+        "images/portfolio/vulniq/vulniq2.png"
+      ],
+      "url": "https://www.vulniq.com/",
+      "technologies": [
+        {
+          "class": "devicon-vuejs-plain-wordmark",
+          "name": "Vue Js "
+        },
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        }
+      ]
+    },
+    {
+      "title": "SHM Web App",
+      "startDate": "2021",
+      "description": "SHM (Yapısal Sağlık İzleme), İnşaat Mühendisliği Yapılarının deprem ve diğer yıkıcı sebeplere karşı sensörler yardımıyla yapısal bütünlüğünü ve hasar durumunu izleme, analiz etme ve raporlamaya yardımcı olan teknolojik karar destek sistemidir. SHM Web App projesinde full stack developer olarak çalıştım.",
+      "images": [
+        "images/portfolio/shm/logo.png",
+        "images/portfolio/shm/shmarayuz.jpg"
+      ],
+      "url": "https://tdg.com.tr/en/solutions/structural-health-monitoring",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain-wordmark",
+          "name": "Node JS"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "Mongo Db"
+        }
+      ]
+    },
+    {
+      "title": "United Payment Azerbaijan (Payzee)",
+      "startDate": "2022",
+      "description": "United Payment Azerbaycan kartlı ödeme, kart depolama altyapısı, sanal pos ve ödeme yönetim sistemidir.UPA projesinde full stack developer olarak çalıştım.",
+      "images": [
+        "images/portfolio/payzee/payzee.png",
+        "images/portfolio/payzee/payzeedashboard.png"
+      ],
+      "url": "http://payzeeaz.idvlabs.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain-wordmark",
+          "name": "Node JS"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "Mongo Db"
+        },
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": "Dotnet Core"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain-wordmark",
+          "name": "MS SQL Server"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "SBOsoft ",
+      "title": "Full Stack Developer",
+      "years": "02.2020 - 06.2021",
+      "mainTech": ["MERN Stack"],
+      "technologies": ["Vue js", "Mysql", "Php", "REST API", "Java"],
+      "sticker": "fab fa-java experience-icon"
+    },
+    {
+      "company": "Teknik Destek Grubu ",
+      "title": "Full Stack Developer",
+      "years": "07.2021 - 02.2022",
+      "mainTech": ["MERN Stack"],
+      "technologies": [
+        "ReactJS",
+        "NodeJS",
+        "MongoDB",
+        "REST API",
+        "RabbitMQ",
+        "Socket.io"
+      ],
+      "sticker": "fab fa-js-square experience-icon"
+    },
+    {
+      "company": "Idvlabs",
+      "title": "Full Stack Developer",
+      "years": "02.2022 - present",
+      "mainTech": ["MERN Stack"],
+      "technologies": [
+        "ReactJS",
+        "NodeJS",
+        "MongoDB",
+        "REST API",
+        ".NET Core",
+        "EF Core"
+      ],
+      "sticker": "fab fa-js-square experience-icon"
+    }
+  ]
+}
