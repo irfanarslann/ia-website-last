@@ -24,7 +24,17 @@
     },
     "skills": {
       "icons": [
+         {
+          "name": "Dotnet Core",
+          "class": "devicon-dotnetcore-plain colored",
+          "level": "100"
+        },
         {
+          "name": "MS SQL",
+          "class": "devicon-microsoftsqlserver-plain-wordmark colored",
+          "level": "100"
+        },
+          {
           "name": "JavaScript",
           "class": "devicon-javascript-plain colored",
           "level": "90"
@@ -48,37 +58,9 @@
           "name": "Mongo DB",
           "class": "devicon-mongodb-plain-wordmark colored",
           "level": "80"
-        },
-        {
-          "name": "Dotnet Core",
-          "class": "devicon-dotnetcore-plain colored",
-          "level": "60"
-        },
-        {
-          "name": "MS SQL",
-          "class": "devicon-microsoftsqlserver-plain-wordmark colored",
-          "level": "75"
-        },
-        {
-          "name": "Vue js",
-          "class": "devicon-vuejs-plain-wordmark colored",
-          "level": "75"
-        },
-        {
-          "name": "Socket Io",
-          "class": "devicon-socketio-original-wordmark",
-          "level": "65"
-        },
-        {
-          "name": "Java",
-          "class": "devicon-java-plain-wordmark colored",
-          "level": "65"
-        },
-        {
-          "name": "Php",
-          "class": "devicon-php-plain colored",
-          "level": "55"
         }
+       
+
       ]
     }
   }
