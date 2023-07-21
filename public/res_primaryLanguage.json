@@ -118,11 +118,9 @@
       "company": "Idvlabs",
       "title": "Full Stack Developer",
       "years": "02.2022 - present",
-      "mainTech": ["MERN Stack"],
+      "mainTech": ["Dotnet Core & EF"],
       "technologies": [
         "ReactJS",
-        "NodeJS",
-        "MongoDB",
         "REST API",
         ".NET Core",
         "EF Core"
