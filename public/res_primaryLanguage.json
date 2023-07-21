@@ -73,14 +73,6 @@
           "name": "React"
         },
         {
-          "class": "devicon-nodejs-plain-wordmark",
-          "name": "Node JS"
-        },
-        {
-          "class": "devicon-mongodb-plain",
-          "name": "Mongo Db"
-        },
-        {
           "class": "devicon-dotnetcore-plain",
           "name": "Dotnet Core"
         },
